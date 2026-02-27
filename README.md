@@ -1,5 +1,4 @@
-
-Exp 6 Simulation of Optical Communication System
+# Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Aim
 To analyze and evaluate the performance of an optical communication system by studying the relationship between fiber length, received power, Q factor and Bit Error Rate(BER) and to observe changes in the eye diagram with increasing fiber length using optiperformer.
@@ -62,26 +61,20 @@ The system includes:
 
 ---
 
-## Tabulation
+## Tabulation:
 
-**Transmission Analysis Across Fiber Lengths**
-
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+<img width="1600" height="1365" alt="image" src="https://github.com/user-attachments/assets/8163c95c-7bf6-41b3-a052-5568ea782a61" />
 
 ---
+## Graph:
 
-## Graphs
-
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1920" height="1080" alt="Screenshot 2026-01-24 121921" src="https://github.com/user-attachments/assets/b8f2be23-2385-459e-92b3-6bf4e6ef08f1" />
 
 ---
+## Description:
 
-## RESULT
+   This OptiPerformer simulation displays the performance of a 90 km fiber link operating at a bit rate of 2.5 Gbps and a frequency of 193.1 THz. The results show a high-quality signal with a Max Q Factor of 44.545 and a wide-open eye diagram, which indicates minimal noise and jitter. At this specific distance, the optical power of -21.079 dBm is sufficient to maintain a zero Bit Error Rate (BER), ensuring successful data recovery without errors.
 
-*(Summarize key findings from simulation and analysis)*
+---
+## Result:
+   Thus the experiment executed and obtained the output successfully. 
