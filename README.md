@@ -61,6 +61,10 @@ The system includes:
 
 ---
 
+### BLOCK DIAGRAM
+![515254113-e1496dd8-cf75-4d3f-b4e0-15b361d1fc19](https://github.com/user-attachments/assets/2c0a8e6d-03a5-40c4-be1e-2863650e6914)
+
+---
 ## Tabulation:
 
 <img width="1600" height="1365" alt="image" src="https://github.com/user-attachments/assets/8163c95c-7bf6-41b3-a052-5568ea782a61" />
